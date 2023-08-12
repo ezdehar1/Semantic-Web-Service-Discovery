@@ -7,7 +7,8 @@ Semantic Web service discovery is about the discovery of web services using the 
 Requirements
 The algorithm is implemented in Java lanaguage, in order to run the code you have to dowalod the WordNet DB this can be done by following the steps below:
 
-1. download the following two jars: 
+1. download the following two jars:
+   
    a. jawjaw-1.0.2.jar - https://code.google.com/p/jawjaw/downloads/list
    
    b. ws4j-1.0.1.jar - https://code.google.com/p/ws4j/downloads/list
