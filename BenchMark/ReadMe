@@ -1,4 +1,11 @@
 Benchmark
 
-A query is described by the user by giving the names of input and output parameters along with the similarity threshold he wants to use for semantically matching the available services. In our experiments we fixed the threshold to a value of 0.8 which is selected experimentally in order to receive reasonably matched services, however, if an exact match is required by the user, then the highest degree of 1.0 can be provided. The benchmark here shows the true services are founded in the service registery and match the user query. When you run the code we get the list of services returned by the algorithm. On average, the algorithm achieved a precision score of 81%, recall score of 67%, and F1_score of 67%.
-a
+A query is described by the user by giving the names of input and output parameters along 
+with the similarity threshold, he wants to use for semantically matching the available services.
+In our experiments, we fixed the threshold to a value of 0.8 which is selected experimentally
+in order to receive reasonably matched services, however, if an exact match is required by the user, 
+then the highest degree of 1.0 can be provided. 
+The benchmark here shows the true services are founded in the service registry and match 
+the user query. When you run the code we get the list of services returned by the algorithm.
+On average, the algorithm achieved a precision score of 81%, recall score of 67%, and F1_score of 67%.
+
